@@ -1,0 +1,38 @@
+img {
+    width: 50px;
+    float: left
+  
+}
+.instaa {
+    
+        list-style-type: none;
+       
+       padding-top: 20px;
+       margin: 0px;
+       overflow: hidden;
+      padding-left: 50px;
+}
+ a{
+    display: block;
+    padding-top: 15px;
+    text-decoration: none;
+    color: black;
+
+}
+h3{
+    text-align: center;
+}
+.tik {
+    
+    list-style-type: none;
+   
+   padding-top:15%;
+   margin: 0px;
+   overflow: hidden;
+}
+.tik img{
+    width: 70px;
+}
+h2 {
+    text-align: center;
+}
