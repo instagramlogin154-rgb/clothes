@@ -1,0 +1,231 @@
+body{
+  background-image: url("roof.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.85;
+  
+}
+  
+
+.navbar ul{
+ list-style-type: none;
+
+padding: 0px;
+margin: 0px;
+overflow: hidden;
+}
+
+.navbar a{
+color: black;
+text-decoration: none;
+padding: 15px;
+display: block;
+text-align: center;
+transition: all 0.3s ease; 
+}
+.navbar img{
+  float: left;
+ width: 40px;
+ height: 36px;
+ padding: 10px;
+ transition: all 0.3s ease; 
+}
+.navbar img:hover{
+  transform: scale(1.05); 
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  background-color: white;
+}
+.navbar a:hover{
+ background-color:white;
+ transform: scale(1.05); 
+ box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+  .navbar li{
+    float: right;
+  }
+  .gallery img{
+    border-radius: 20px;
+    height: 230px;
+    width: 220px;
+  }
+  .gallery div{
+    width: 200px;
+    border-radius: 20px;
+    text-align: center;
+    
+  }
+  .gallery {
+    padding-left: 80px;
+    transition: all 0.3s ease; 
+    }
+    
+    
+ 
+  .gallery :hover{
+    transform: scale(1.05); 
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+  .container {
+display: flex;
+
+  }
+  .des {
+    display: flex;
+  }
+  .gall img{
+    border-radius: 20px;
+    height: 230px;
+    width: 220px;
+  }
+  .gall {
+    padding-left: 3%;
+    transition: all 0.3s ease; 
+  }
+  .gall div{
+    text-align: center;
+    border-radius: 20px;
+    width: 200px;
+  }
+  .gall :hover{
+    transform: scale(1.05); 
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+  .gal img{
+    border-radius: 20px;
+    height: 230px;
+    width:220px ;
+    
+  }
+  .gal div{
+    text-align: center;
+    border-radius: 20px;
+    width:200px ;
+    
+  }
+  .gal {
+    padding-left: 3%;
+    transition: all 0.3s ease; 
+    }
+    .gal :hover{
+      transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    }
+  .gae img{
+    border-radius: 20px;
+    height: 230px;
+    width:220px ;
+    
+  }
+  .gae div{
+    text-align: center;
+    border-radius: 20px;
+    width:200px ;
+  }
+  .gae {
+    padding-left: 3%;
+    transition: all 0.3s ease; 
+    }
+    .gae :hover{
+      transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    }
+    .gas img{
+      border-radius: 20px;
+      height: 230px;
+      width:220px ;
+    
+    }
+    .gas div{
+     
+      text-align: center;
+      border-radius: 20px;
+      width:200px ;
+    }
+    .gas {
+      padding-left: 3%;
+      transition: all 0.3s ease; 
+      }
+      .gas :hover{
+        transform: scale(1.05); 
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+      }
+      .gad {
+       padding-left: 90px;
+       transition: all 0.3s ease; 
+        }
+        .gad img{
+         
+          border-radius: 20px;
+          height: 230px;
+          width:220px ;
+          
+        }
+        .gad div{
+          text-align: center;
+          border-radius: 20px;
+          width:200px ;
+        }
+        .gad :hover{
+          transform: scale(1.05); 
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        }
+        .gah {
+          padding-left: 3%;
+          transition: all 0.3s ease; 
+          }
+          .gah img{
+            border-radius: 20px;
+            height: 230px;
+            width:220px ;
+          
+          }
+          .gah div{
+            text-align: center;
+            border-radius: 20px;
+            width:200px ;
+          }
+          .gah :hover{
+            transform: scale(1.05); 
+          box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+          }
+          .gai {
+            padding-left: 3%;
+            transition: all 0.3s ease; 
+            }
+            .gai img{
+              border-radius: 20px;
+              height: 230px;
+              width:220px ;
+            
+            }
+            .gai div{
+              text-align: center;
+              border-radius: 20px;
+              width:200px ;
+            }
+            .gai :hover{
+              transform: scale(1.05); 
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+            }
+            .gam {
+              padding-left: 3%;
+              transition: all 0.3s ease; 
+              }
+              .gam img{
+                border-radius: 20px;
+                height: 230px;
+                width:220px ;
+                
+              }
+              .gam div{
+                text-align: center;
+                border-radius: 20px;
+                width:200px ;
+              }
+              .gam :hover{
+                transform: scale(1.05); 
+              box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+              }
+              
